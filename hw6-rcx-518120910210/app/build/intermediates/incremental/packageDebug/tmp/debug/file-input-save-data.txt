@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Fri Apr 16 10:51:36 CST 2021
+7.path=lib/armeabi-v7a/libimagepipeline.so
+2.base=E\:\\used_for_byteclass\\bytedance\\518120910046AndroidHW6-master\\518120910046AndroidHW6-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+5.set=NATIVE_RESOURCE
+0.path=lib/armeabi/libimagepipeline.so
+2.baseType=DIRECTORY
+3.base=E\:\\used_for_byteclass\\bytedance\\518120910046AndroidHW6-master\\518120910046AndroidHW6-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+7.baseType=DIRECTORY
+2.set=DEX
+1.path=assetsimage.jpg
+4.base=E\:\\used_for_byteclass\\bytedance\\518120910046AndroidHW6-master\\518120910046AndroidHW6-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=E\:\\used_for_byteclass\\bytedance\\518120910046AndroidHW6-master\\518120910046AndroidHW6-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.set=DEX
+3.path=lib/arm64-v8a/libimagepipeline.so
+6.base=E\:\\used_for_byteclass\\bytedance\\518120910046AndroidHW6-master\\518120910046AndroidHW6-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+7.base=E\:\\used_for_byteclass\\bytedance\\518120910046AndroidHW6-master\\518120910046AndroidHW6-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/x86/libimagepipeline.so
+0.base=E\:\\used_for_byteclass\\bytedance\\518120910046AndroidHW6-master\\518120910046AndroidHW6-master\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/x86_64/libimagepipeline.so
+1.base=E\:\\used_for_byteclass\\bytedance\\518120910046AndroidHW6-master\\518120910046AndroidHW6-master\\app\\build\\intermediates\\merged_assets\\debug\\out
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
